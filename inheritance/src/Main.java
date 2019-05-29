@@ -20,6 +20,7 @@ public class Main {
         for (int i = 0; i < character.size(); ++i) {
             System.out.println(i + " : " + character.get(i).getName());
         }
+        System.out.println("9 : Exit");
         System.out.print("Input : ");
     }
 
@@ -69,7 +70,7 @@ public class Main {
                 continue;
             }
 
-            if (command.equalsIgnoreCase("-1")) {
+            if (command.equalsIgnoreCase("9")) {
                 break;
             }
 
