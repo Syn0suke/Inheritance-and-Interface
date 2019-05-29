@@ -8,7 +8,7 @@ public class Main {
 	private Scanner scanner;
     private ArrayList<BaseCharacter> character;
 
-    private void clear() {
+    private void clear()  {
         for (int i = 0; i < 50; ++i) {
             System.out.println();
         }
