@@ -6,6 +6,6 @@
 
 # CARA MENGGUNAKAN APLIKASI
 •	Format command (non-case-sensitive)
-[nama aksi] [IDKarakter] (untuk 1 ID) 
-atau
+[nama aksi] [IDKarakter] (untuk 1 ID) </br>
+atau</br>
 [nama aksi] [IDKarakter1],[IDKarakter2],…,[IDKarakterN] (untuk ID lebih dari 1)
